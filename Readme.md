@@ -4,6 +4,7 @@
 This project is designed to **predict daily sales quantities** for infrastructure machinery using an **XGBoost regression model**. The model considers various factors such as **market share, political influence, marketing efforts, and regional impact**. The goal is to improve **sales forecasting accuracy** for better business decisions.
 
 🔗 **Live Demo**: [Datathon ML](https://datathonml.streamlit.app/)
+https://datathon-beta.vercel.app/
 
 ---
 
